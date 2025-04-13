@@ -1,0 +1,18 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Sorting Tool with Java/*
+!/Sorting Tool with Java/task/
+/Sorting Tool with Java/task/*
+!/Sorting Tool with Java/task/src
+!/Sorting Tool with Java/task/build.gradle
+!/Sorting Tool with Java/task/out.txt
